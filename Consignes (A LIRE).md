@@ -1,0 +1,15 @@
+- un dossier par jour
+- dans chaque dossier :
+	- un exercice "simple"
+	- un exercice "moyen"
+	- un exercice "complexe"
+- dans l'idéal, faire les 3 exercices du jour chaque jour
+- total : 27 algorithmes étalés sur 9 jours
+- Langages utilisés : Python, Bash, C et Java
+- Au fil des jours, les exercices deviennent plus complexes
+- <u>Vous n'êtes pas obligés de faire tous les exercices, mais c'est conseillé si vous avez des difficultés</u>
+- Ce n'est pas obligatoire, mais vous pouvez vous chronométrer si vous le souhaitez
+- L'utilisation d'internet est autorisée ou non en fonction de l'exercice (bien sûr, vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...))
+- Dans tous les cas : **Interdiction FORMELLE d'utiliser l'IA, sous aucun prétexte <u>même lorsque vous êtes bloqués</u>**
+- Si vous n'arrivez vraiment pas à faire un exercice, vous pouvez passer à ceux du jour suivant, vous terminerez celui-ci plus tard.
+- Si vous êtes vraiment coincés très longtemps ou si vous avez des questions : <u>envoyez-moi un message sur Discord</u>, je vous répondrai dans la mesure de mes possibilités (en vrai ça va, je réponds dans les 24h max).
