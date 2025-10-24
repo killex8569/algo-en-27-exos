@@ -1,5 +1,5 @@
 #### Pourquoi ce cours ?
-J'ai rédigé ces exercices car j'ai remarqué que certains dans la classe étaient particulièrement largués en algorithmie (et plus généralement en programmation). Ceci vous permettra de vous entraîner et vous améliorer.
+Nous avons rédigé ces exercices car nous avons remarqué que certains dans la classe étaient particulièrement largués en algorithmie (et plus généralement en programmation). Ceci vous permettra de vous entraîner et vous améliorer.
 #### Objectifs
 - Acquérir la "gymnastique d'esprit" de l'algorithmie
 - Acquérir certains réflexes lors de la conception d'un algorithme
