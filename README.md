@@ -20,3 +20,8 @@ J'ai rédigé ces exercices car j'ai remarqué que certains dans la classe étai
 
 - Exo simple sur variable gloabl et local
 - Exo simple sur echange de valeurs
+
+## répartition
+
+Alex --> Jour 3, 4 et 7
+Val --> Jour 2, 5 et 6

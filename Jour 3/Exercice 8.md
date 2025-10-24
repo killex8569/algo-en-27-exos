@@ -2,23 +2,35 @@
 
 **Niveau** : Moyen
 **Internet autorisé** : non
-**Langage** : Python
+**Langage** : C
 
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 ## Enoncé
 
-- Vous aller devoirs utiliser la bibliothèque `random` qui permet de choisir un nombre aléatoire en python
-- Votre script devra généré un nombre aléatoire qui déterminera le contenue d'un tableau
-- Vous deverez print la longueur de votre tableau et print le tableau généré aléatoirement
+- Créer une fonction `calc_moyenne` qui prend en paramètre deux tableaux d'entier.
+    - Dans cette fonction, vous devrez :
+        - Lire les données des tableau, les extraires et les additionnés dans une variables `somme_total1` et `somme_total2`
+        - Calculer la moyenne des deux sommes dans une variable `moyenne_g`.
+        - retourner la valeur de `moyenne_g`.
+- Dans le programme principal, Initialiser deux tableaux `moy1` et `moy2` qui contiendrons chacuns 3 entiers de votre choix.
+- Afficher le résultat de la fonction
 
-## Exemple de résultat
 
---> valeurs du tableau : 1, 4, 19, 59, 2, 8
---> Longueur du tableau : 6
+## Exemples de résultat
+
+moy1 = 12, 4, 18
+moy2 = 6, 15, 13
+
+moyenne_g = 11.3
+
+L'élève à la moyenne
+
 
 ## Documentation
 
-Note pour docs :
---> Ajouter random (installation et import)
---> Utilisation `len` en python ()
---> Détailler le append
+Notes
+
+--> Parcourir un tableau en C
+--> Récupéré les données (normalement c'est juste un som += tab1[i], mais pour être sur n'héssite pas à détails ce qu'il faut faire avec du pseudo code)
+--> Appelle de la fonction avec des arguments
+
