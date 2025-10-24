@@ -13,5 +13,6 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 	- si le caractère est la lettre "a", ajouter la lettre "F" à "final_msg"
 	- sinon, récupérer le code ascii du caractère, le convertir en chaine de caractère pour ensuite l'ajouter à "final_msg"
 - renvoyer "final_msg"
+
 ## Exemple de résultat
 
