@@ -22,7 +22,6 @@ OU
 Votre nombre : 3
 9
 
-
 ## Documentation
 
 | Instruction                                                              | Code                                |
@@ -36,4 +35,4 @@ Votre nombre : 3
 | demander à l'utilisateur de rentrer un entier et mettre la valeur dans x | `x = int(input("entrez valeur: "))` |
 | puissance                                                                | `x**2` (x "puissance" 2)            |
 | appeler une fonction                                                     | `func(3)`                           |
-**Remarque** :
+**Remarque** : `%` permet de faire le "modulo" entre deux valeurs : récupérer le reste de la division euclidienne (ex : 10/3 -> 3x3=9 il reste 1 donc 10%3 = 1)

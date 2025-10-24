@@ -20,7 +20,6 @@ OU
 
 --> la personne est majeure, elle a 20 ans
 
-
 ## Documentation
 | Instruction                                      | Code                     |
 | ------------------------------------------------ | ------------------------ |
