@@ -12,4 +12,4 @@
 - L'utilisation d'internet est autorisée ou non en fonction de l'exercice (bien sûr, vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...))
 - Dans tous les cas : **Interdiction FORMELLE d'utiliser l'IA, sous aucun prétexte <u>même lorsque vous êtes bloqués</u>**
 - Si vous n'arrivez vraiment pas à faire un exercice, vous pouvez passer à ceux du jour suivant, vous terminerez celui-ci plus tard.
-- Si vous êtes vraiment coincés très longtemps ou si vous avez des questions : <u>envoyez-moi un message sur Discord</u>, je vous répondrai dans la mesure de mes possibilités (en vrai ça va, je réponds dans les 24h max).
+- Si vous êtes vraiment coincés très longtemps ou si vous avez des questions : <u>envoyez-nous un message sur Discord</u>, on vous répondrai dans la mesure de nos possibilités.
