@@ -25,3 +25,5 @@ Nous avons rédigé ces exercices car nous avons remarqué que certains dans la 
 
 Alex --> Jour 3, 4 et 7
 Val --> Jour 2, 5 et 6
+
+Il manque : 13, 16, 17, 18
