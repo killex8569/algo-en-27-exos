@@ -16,3 +16,4 @@ J'ai rédigé ces exercices car j'ai remarqué que certains dans la classe étai
 - Faire un dernier exercice de fin qui compile tout ce que l'on à vu jusqu'a maintenant (Mini application)
 - Chaque exos, on augmente un peu la difficulté et - de docs 
 - Jours 10 --> Java
+- Autoriser internet pour simple et moyens à partir du jour 6

@@ -11,6 +11,16 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 - initialiser une variable "majorite" à la valeur 18 (ou 21 si vous voulez)
 - si la valeur de "age" est inférieure à la valeur de "majorite", afficher le message "la personne est mineure, elle a X ans" (remplacer X par la valeur de "age")
 - sinon, afficher le message "la personne est majeure, elle a X ans" (remplacer X par la valeur de "age")
+
+## Exemples de résultat
+
+--> la personne est mineure, elle a 17 ans
+
+OU
+
+--> la personne est majeure, elle a 20 ans
+
+
 ## Documentation
 | Instruction                                      | Code                     |
 | ------------------------------------------------ | ------------------------ |
