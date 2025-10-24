@@ -11,6 +11,18 @@
 	- sinon, elle renvoie le nombre élevé au cube (puissance 3)
 - appeler la fonction trois fois avec val=4, val=2 et val=-3
 
+## Exemple de résultat
+
+Votre nombre : 2
+val = 4
+8
+
+OU
+
+Votre nombre : 3
+9
+
+
 ## Documentation
 
 | Instruction                                                              | Code                                |
