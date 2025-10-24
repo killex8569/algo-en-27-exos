@@ -14,6 +14,7 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
     - Afficher la taille totals des 3 tableaux (leurs longueurs)
     - Vous pouvez implémenter l'algo de tri de votre choix (pas de restriction)
     - Une fois les deux tableau trier, vous devez créer un troisième tableau qui aura la taille réuni des deux tableau précédents
+    - Puis enfin, retourner la valeur de tout les tableau, ainsi que leurs tailles respectives
 
 
 Objectifs : 
