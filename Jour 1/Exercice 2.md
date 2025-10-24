@@ -27,7 +27,7 @@ Votre nombre : 3
 | Instruction                                                              | Code                                |
 | ------------------------------------------------------------------------ | ----------------------------------- |
 | initialiser une fonction avec pour paramètre x                           | `def func(x) :`                     |
-| Initialiser une variable (pour un nombre entier)                         | `x = 4`                             |
+| Initialiser une variable                                                 | `x = 4`                             |
 | condition if                                                             | `if x < 4 :`<br>                    |
 | afficher la valeur d'une variable                                        | `print(x)`                          |
 | retourner une valeur d'une fonction                                      | `return x` `return v+2`             |
