@@ -7,7 +7,7 @@
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 ## Enoncé
 
-- Vous aller devoirs utiliser la bibliothèque `random` qui permet de choisir un nombre aléatoire en python
+- Vous allez devoirs utiliser la bibliothèque `random` qui permet de choisir un nombre aléatoire en python
 - Votre script devra généré un nombre aléatoire qui déterminera le contenue d'un tableau
 - Vous deverez print la longueur de votre tableau et print le tableau généré aléatoirement
 
