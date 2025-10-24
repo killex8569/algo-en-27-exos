@@ -17,3 +17,6 @@ J'ai rédigé ces exercices car j'ai remarqué que certains dans la classe étai
 - Chaque exos, on augmente un peu la difficulté et - de docs 
 - Jours 10 --> Java
 - Autoriser internet pour simple et moyens à partir du jour 6
+
+- Exo simple sur variable gloabl et local
+- Exo simple sur echange de valeurs
