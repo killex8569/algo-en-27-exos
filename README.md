@@ -10,3 +10,7 @@ J'ai rédigé ces exercices car j'ai remarqué que certains dans la classe étai
 - Si vous n'avez pas assez pratiqué l'algorithmie
 - Si vous sentez le besoin de vous exercer pas à pas
 - Si vous sentez que vous n'avez rien compris au TPs d'algorithmie en C
+
+# idées possibles
+
+- Faire un dernier exercice de fin qui compile tout ce que l'on à vu jusqu'a maintenant (Mini application)
