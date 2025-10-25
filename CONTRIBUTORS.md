@@ -1,6 +1,6 @@
 # Contributors
 
-Merci à toutes les personnes ayant contribué à ce projet :
+Personnes ayant contribué à ce projet :
 
 | Nom | Rôle | Contact / Lien |
 |-----|------|----------------|

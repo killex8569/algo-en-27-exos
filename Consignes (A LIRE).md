@@ -1,16 +1,16 @@
-- Un dossier par jour
-- Dans chaque dossier :
-	- Un exercice "simple"
-	- Un exercice "moyen"
-	- Un exercice "complexe"
-- Dans l'idéal, faire les 3 exercices du jour chaque jour
-- Total : 27 algorithmes étalés sur 9 jours
-- Langages utilisés : Python, Bash, C et Java
-- Au fil des jours, les exercices deviennent plus complexes
-- <u>Vous n'êtes pas obligés de faire tous les exercices, mais c'est conseillé si vous avez des difficultés</u>
-- Ce n'est pas obligatoire, mais vous pouvez vous chronométrer si vous le souhaitez
-- L'utilisation d'internet est autorisée ou non en fonction de l'exercice (bien sûr, vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...))
-- Dans tous les cas : **Interdiction FORMELLE d'utiliser l'IA, sous aucun prétexte <u>même lorsque vous êtes bloqués</u>**
-- Si vous n'arrivez vraiment pas à faire un exercice, vous pouvez passer à ceux du jour suivant, vous terminerez celui-ci plus tard.
-- Si vous êtes vraiment **coincés très longtemps** ou si vous avez **des questions** : <u>envoyez-nous un message sur Discord</u> (Alexandre ou Valentin), on vous répondrai dans la mesure de nos possibilités.
-- Une fois que vous aurez terminé es exercices, on pourras vous fournir une version corriger pour les exos ou vous avez eu du mal.
+- Un dossier par jour  
+- Dans chaque dossier :  
+	- Un exercice "simple"  
+	- Un exercice "moyen"  
+	- Un exercice "complexe"  
+- Dans l'idéal, faire les 3 exercices du jour chaque jour  
+- Total : 27 algorithmes étalés sur 9 jours  
+- Langages utilisés : Python, Bash et C.  
+- Au fil des jours, les exercices deviennent plus complexes  
+- <u>Vous n'êtes pas obligés de faire tous les exercices, mais c'est conseillé si vous avez des difficultés</u>  
+- Ce n'est pas obligatoire, mais vous pouvez vous chronométrer si vous le souhaitez  
+- L'utilisation d'internet est autorisée ou non en fonction de l'exercice (bien sûr, vous pouvez regarder sur Internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...))  
+- Dans tous les cas : **Interdiction FORMELLE d'utiliser l'IA, sous aucun prétexte <u>même lorsque vous êtes bloqués</u>** !
+- Si vous n'arrivez vraiment pas à faire un exercice, vous pouvez passer à ceux du jour suivant, vous terminerez celui-ci plus tard.  
+- Si vous êtes vraiment **coincés très longtemps** ou si vous avez **des questions** : <u>envoyez-nous un message sur Discord</u> (Alexandre ou Valentin), on vous répondra dans la mesure de nos possibilités.  
+- Une fois que vous aurez terminé la majorité des exercices, on pourra vous fournir une version corrigée pour les exos où vous avez eu du mal/pas fini.

@@ -1,16 +1,17 @@
 ## Consignes
 
-**Niveau** : Complexe
-**Internet autorisé** : oui
+**Niveau** : Complexe  
+**Internet autorisé** : oui  
 **Langage** : C
 
-## Enoncé
+## Énoncé
 
-- Écrire une fonction `tri_selection` qui prend en paramètre un tableau de nombres à virgule (float)
-- Étapes du tri par sélection :
-	- on recherche le minimum dans le tableau
-	- on échange sa valeur avec celle de la première valeur du tableau (cf : jour 2, exercice 4)
-	- on recommence l'opération n-2 fois, n étant la longueur du tableau
+- Écrire une fonction `tri_selection` qui prend en paramètre un tableau de nombres à virgule (float).  
+- Étapes du tri par sélection :  
+	- On recherche le minimum dans le tableau.  
+	- On échange sa valeur avec celle de la première valeur du tableau (cf : jour 2, exercice 4).  
+	- On recommence l'opération n-1 fois, n étant la longueur du tableau.
+
 
 ## Recherches sur internet
 

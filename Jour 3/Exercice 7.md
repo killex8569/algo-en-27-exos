@@ -1,18 +1,19 @@
 ## Consignes
 
-**Niveau** : Simple
-**Internet autorisé** : non
-**Langage** : Python
+**Niveau** : Simple  
+**Internet autorisé** : non  
+**Langage** : Python  
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
+_Rappel : vous pouvez regarder sur Internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 
-## Enoncé
+## Énoncé
 
-- utiliser une boucle `for` pour remplir un tableau aléatoirement :
-	- générer un nombre aléatoire
-	- l'ajouter à la fin de la liste
-- la longueur du tableau est elle aussi aléatoire
-- afficher le tableau ainsi que sa longueur
+- Utiliser une boucle `for` pour remplir un tableau aléatoirement :  
+	- Générer un nombre aléatoire  
+	- L'ajouter à la fin de la liste  
+- La longueur du tableau est elle aussi aléatoire  
+- Afficher le tableau ainsi que sa longueur
+
 
 ## Exemple de résultat
 

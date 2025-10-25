@@ -6,10 +6,10 @@
 
 ## Enoncé
 
-- Déclarer la fonction `lire_tableau` qui à pour paramètre `tab` qui est un tableau de **nombres entiers**.
+- Déclarer la fonction `lire_tableau` qui a pour paramètre `tab` qui est un tableau de **nombres entiers**.
 - Dans cette fonction :
-    - A l'aide d'une boucle `for`, afficher chaque élément du tableau (chaque élément à l'index i, i allant de 1 jusqu'à la longueur du tableau - 1)
-- Dans le programme principal, initialiser le tableau "valeurs" avec 5 valeurs (nombre entiers, n'importe lesquels).
+    - À l'aide d'une boucle `for`, afficher chaque élément du tableau (chaque élément à l'index i, i allant de 1 jusqu'à la longueur du tableau - 1)
+- Dans le programme principal, initialiser le tableau "valeurs" avec 5 valeurs (nombres entiers, n'importe lesquels).
 - Appeler la fonction `lire_tableau` avec la variable "valeurs".
 
 ## Documentation
@@ -17,7 +17,7 @@
 | ------------------------------------------------------------- | ----------------------------------- |
 | initialiser une fonction avec pour paramètre x                | `function name_func(x) { ... }`     |
 | boucle for "pour i allant de 1 jusqu'à x"                     | `for i in $(seq 1 $x); do ... done` |
-| récupérer la valeur contenu dans le tableau "tab" à l'index i | `x=${tab[i]}` `tab[i]=5`            |
+| récupérer la valeur contenue dans le tableau "tab" à l'index i | `x=${tab[i]}` `tab[i]=5`            |
 | afficher une valeur                                           | `echo $var` `echo "message"`        |
 | récupérer le nombre d'élément de la liste "tab"               | `${#tab[@]}`                        |
 | créer un tableau                                              | `tab=(1 2 3 4)`                     |

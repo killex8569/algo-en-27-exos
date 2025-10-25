@@ -1,27 +1,27 @@
 ## Consignes
 
-**Niveau** : Complexe
-**Internet autorisé** : oui
+**Niveau** : Complexe  
+**Internet autorisé** : oui  
 **Langage** : C
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
+_Rappel : vous pouvez regarder sur Internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 
-## Enoncé
+## Énoncé
 
-- Créer une fonction `tri`
-- Votre fonction devra effectuer les actions suivantes : 
-    - Initialiser et générer deux tab `tab1` et `tab2` de manière aléatoire et de longueur aléatoire
-    - Afficher la taille totals des 3 tableaux (leurs longueurs)
-    - Vous pouvez implémenter l'algo de tri de votre choix (pas de restriction)
-    - Une fois les deux tableau trier, vous devez créer un troisième tableau qui aura la taille réuni des deux tableau précédents
-    - Puis enfin, retourner la valeur de tout les tableau, ainsi que leurs tailles respectives
+- Créer une fonction `tri`.  
+- Votre fonction devra effectuer les actions suivantes :  
+    - Initialiser et générer deux tableaux `tab1` et `tab2` de manière aléatoire et de longueur aléatoire  
+    - Afficher la taille totale des 2 tableaux (leurs longueurs)  
+    - Vous pouvez implémenter l'algorithme de tri de votre choix (pas de restriction)  
+    - Une fois les deux tableaux triés, créer un troisième tableau qui aura la taille réunie des deux tableaux précédents  
+    - Puis enfin, retourner la valeur de tous les tableaux, ainsi que leurs tailles respectives  
 
+Objectifs :  
 
-Objectifs : 
+- Créer deux tableaux de taille et de contenu différents (via la fonction random)  
+- Créer un troisième tableau  
+- Trier dans l'ordre dans un premier temps les deux tableaux, puis comparer et inclure dans le tableau 3 les valeurs des deux tableaux
 
-- Créer deux tableau de taille et de contenue différents, (via la fonction random).
-- Créer un troisième tableau.
-- Trier dans l'ordre dans un premier temps les deux tableau, puis comparer et inclure dans le tableau 3 les valeurs des deux tableau.
 
 
 

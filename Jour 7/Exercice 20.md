@@ -1,24 +1,25 @@
 ## Consignes
 
-**Niveau** : Moyen
-**Internet autorisé** : non
+**Niveau** : Moyen  
+**Internet autorisé** : non  
 **Langage** : Bash
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
+_Rappel : vous pouvez regarder sur Internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 
-## Enoncé
+## Énoncé
 
-Remake du script linux vu lors du controle : 
+Remake du script Linux vu lors du contrôle :  
 
-- Vous devez écrire un script nommé `travail_recent` qui prend en arguments et dans cet ordre :
-    - Un nom de fichier
-    - Un ou plusieurs noms de dossiers
-- Le script devra avoir les fonctionnalités suivantes : 
-    - Donner le nombre de fichiers modifiés récemment (avec l'aide de cette commande : `find /chemin/vers/dossier -type f -mtime -7`)
-    - Il écrira dans un fichier nommée : `result.txt` 
-    - Si le fichier de sortie existe, alors il sera rempalcer
-    - Si l'un des noms / repertoire de dossier est invalide, le programme passe à la suite et affiche juste un message d'erreur.
-    - Une fois que tous le processus principal est fini, le script nous dit qu'elle est le dossier qui contient le plus de fichier récents.
+- Vous devez écrire un script nommé `travail_recent` qui prend en arguments et dans cet ordre :  
+    - Un nom de fichier  
+    - Un ou plusieurs noms de dossiers  
+- Le script devra avoir les fonctionnalités suivantes :  
+    - Donner le nombre de fichiers modifiés récemment (avec l'aide de cette commande : `find /chemin/vers/dossier -type f -mtime -7`)  
+    - Il écrira dans un fichier nommé : `result.txt`  
+    - Si le fichier de sortie existe, alors il sera remplacé  
+    - Si l'un des noms / répertoires de dossier est invalide, le programme passe à la suite et affiche juste un message d'erreur  
+    - Une fois que tout le processus principal est fini, le script indique quel est le dossier qui contient le plus de fichiers récents
+
 
 
 ## Exemple de résultat

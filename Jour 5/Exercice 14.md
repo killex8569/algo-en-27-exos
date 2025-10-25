@@ -1,14 +1,14 @@
 ## Consignes
 
-**Niveau** : moyen
-**Internet autorisé** : non
+**Niveau** : Moyen  
+**Internet autorisé** : non  
 **Langage** : Python
 
-## Enoncé
+## Énoncé
 
-- Écrire une fonction qui converti un nombre binaire en décimal
-- La fonction prend en paramètre une chaine de caractère et renvoie un nombre entier
-- En parcourant la chaine à l'envers, si l'on tombe sur un "1", on ajoute 2 puissance l'index actuel au nombre décimal final
+- Écrire une fonction qui convertit un nombre binaire en décimal.  
+- La fonction prend en paramètre une chaîne de caractères et renvoie un nombre entier.  
+- En parcourant la chaîne à l'envers, si l'on tombe sur un "1", on ajoute 2 puissance l'index actuel au nombre décimal final.
 
 
 ## Documentation

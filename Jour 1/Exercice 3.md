@@ -9,7 +9,7 @@
 - demander à l'utilisateur de rentrer une valeur numérique et la mettre dans la variable "nb"
 - tant que cette valeur n'est pas numérique, demander à l'utilisateur de rentrer une valeur
 - une fois la valeur validée :
-	- si elle est supérieure à 5, afficher "inférieur à 5"
+	- si elle est inférieur à 5, afficher "inférieur à 5"
 	- afficher la valeur de "nb"
 
 ## Documentation

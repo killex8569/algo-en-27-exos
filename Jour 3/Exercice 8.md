@@ -1,18 +1,18 @@
 ## Consignes
 
-**Niveau** : moyen
-**Internet autorisé** : non
+**Niveau** : Moyen  
+**Internet autorisé** : non  
 **Langage** : C
 
-## Enoncé
+## Énoncé
 
-- Créer une fonction `calc_moyenne` qui prend en paramètre deux tableaux d'entier.
-    - Dans cette fonction :
-        - Lire les données des tableau, les extraire et les additionner dans une variable `somme_total1` et `somme_total2`
-        - Calculer la moyenne des deux sommes dans une variable `moyenne_g`.
-        - retourner la valeur de `moyenne_g`.
-- Dans le programme principal, Initialiser deux tableaux `moy1` et `moy2` qui contiendront chacun 3 entiers au choix.
-- Afficher le résultat de la fonction, s'il est supérieur ou égal à 10, afficher le message "L'élève à la moyenne"
+- Créer une fonction `calc_moyenne` qui prend en paramètre deux tableaux d'entiers.  
+    - Dans cette fonction :  
+        - Lire les données des tableaux, les extraire et les additionner dans une variable `somme_total1` et `somme_total2`  
+        - Calculer la moyenne des deux sommes dans une variable `moyenne_g`.  
+        - Retourner la valeur de `moyenne_g`.  
+- Dans le programme principal, initialiser deux tableaux `moy1` et `moy2` qui contiendront chacun 3 entiers au choix.  
+- Afficher le résultat de la fonction ; s'il est supérieur ou égal à 10, afficher le message "L'élève a la moyenne"
 
 ## Exemples de résultat
 

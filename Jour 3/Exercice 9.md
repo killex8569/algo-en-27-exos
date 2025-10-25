@@ -1,17 +1,18 @@
 ## Consignes
 
-**Niveau** : Complexe
-**Internet autorisé** : non
+**Niveau** : Complexe  
+**Internet autorisé** : non  
 **Langage** : Bash
 
-## Enoncé
+## Énoncé
 
-- le script prend en compte deux paramètres numériques minimum : `./script nb1 nb2 nb3...`
-- vérifier si le nombre de paramètres est inférieur à 2, renvoyer un message d'erreur si c'est le cas et quitter le script
-- le script doit :
-    - Créer un fichier `result.txt` si il n'existe pas déjà.
-    - à l'aide d'une boucle `for` qui parcours la liste des paramètres, trouver le minimum, la moyenne et le maximum des paramètres du programme. L'affecter dans cet ordre aux variables : `min`, `moy`, `max`.
+- Le script prend en compte deux paramètres numériques minimum : `./script nb1 nb2 nb3...`  
+- Vérifier si le nombre de paramètres est inférieur à 2, renvoyer un message d'erreur si c'est le cas et quitter le script  
+- Le script doit :  
+    - Créer un fichier `result.txt` s'il n'existe pas déjà.  
+    - À l'aide d'une boucle `for` qui parcourt la liste des paramètres, trouver le minimum, la moyenne et le maximum des paramètres du programme. Les affecter dans cet ordre aux variables : `min`, `moy`, `max`.  
     - Ajouter dans le résultat de `tab` dans le fichier `result.txt`.
+
 
 ## Exemple de resultat
 

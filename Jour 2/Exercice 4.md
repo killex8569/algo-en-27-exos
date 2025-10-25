@@ -32,7 +32,7 @@ fin :
 | Initialiser une variable (pour un nombre entier) | `int x = 4;` `int y = x;`                   |
 | afficher la valeur d'une variable                | `printf("%d", x);` `printf("%d %d", x, y);` |
 | Terminer un code C                               | `return 0;`                                 |
-**Remarque** : l'utilisation d'une variable "temp" est essentielle, si on ne l'utilise pas voici ce qui se passe :
+**Remarque** : L'utilisation d'une variable "temp" est essentielle, si on ne l'utilise pas voici ce qui se passe :
 ```C
 int var1 = 4;
 int var2 = 8;
