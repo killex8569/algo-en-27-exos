@@ -26,5 +26,5 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 
 
-## Documentation
+## Exemple de résultat
 
