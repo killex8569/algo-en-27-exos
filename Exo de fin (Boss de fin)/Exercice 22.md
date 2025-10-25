@@ -21,7 +21,7 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 2. **Phase du Point** :
    - Le joueur relance les dés jusqu’à :
-     - refaire la valeur du **Point** → il **gagne**,  
+     - refaire la même valeur du **Point** → il **gagne**,  
      - ou faire **7** → il **perd**.
 
 3. Le programme doit :

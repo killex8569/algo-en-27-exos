@@ -24,7 +24,7 @@ _Rappel : Pour l'algo glouton, n'allez pas le chercher sur Internet, faites-le s
 - La fonction devra effectuer les actions suivantes :  
     - Vérifier la validité des entrées (capacité positive, poids et valeurs non nuls).  
     - Appliquer une stratégie gloutonne pour résoudre le problème :  
-        - Déterminer le critère glouton (par exemple ratio valeur/poids).  
+        - Déterminer le critère glouton (par exemple ratio valeur/poids des pièces de monnaies).  
         - Trier les éléments selon ce critère.  
         - Parcourir les éléments triés et ajouter à la solution la quantité maximale possible sans dépasser la contrainte principale.  
     - Calculer et retourner la solution finale (par exemple valeur maximale et liste des éléments sélectionnés).

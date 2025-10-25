@@ -4,7 +4,6 @@
 **Internet autorisé** : Oui
 **Langage** : Bash
 
-
 ## Enoncé
 
 Backup incrémental en bash

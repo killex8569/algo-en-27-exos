@@ -9,8 +9,8 @@ _Rappel : vous pouvez regarder sur Internet comment lancer votre programme en fo
 ## Énoncé
 
 - Créer 2 fichiers dans votre projet C :  
-    - Un `algo.h` dans le dossier `include`  
-    - Un `algo.c` dans le dossier `src`  
+    - Un `algo.h` dans le dossier `include`.
+    - Un `algo.c` dans le dossier `src`.
 
 - Dans le fichier `algo.c`, créer une fonction `juste_prix` de type void.  
 
