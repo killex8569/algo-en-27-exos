@@ -1,8 +1,8 @@
 ## Consignes
 
-**Niveau** : Moyen
+**Niveau** : Simple
 **Internet autorisé** : non
-**Langage** : C 
+**Langage** : Python 
 
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 
@@ -26,8 +26,7 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 3. Le programme doit :
    - Afficher chaque lancer et sa somme.  
-   - Indiquer clairement si le joueur gagne ou perd.  
-   - Permettre de **relancer une partie** sans relancer le programme.  
+   - Indiquer clairement si le joueur gagne ou perd.   
 
 ---
 
