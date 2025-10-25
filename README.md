@@ -13,7 +13,7 @@ Nous avons rédigé ces exercices car nous avons remarqué que certains dans la 
 
 # idées possibles
 
-- Faire un dernier exercice de fin qui compile tout ce que l'on à vu jusqu'a maintenant (Mini application)
+- Faire un dernier exercice de fin qui compile tout ce que l'on à vu jusqu'à maintenant (Mini application)
 - Chaque exos, on augmente un peu la difficulté et - de docs 
 - Jours 10 --> Java
 - Autoriser internet pour simple et moyens à partir du jour 6
