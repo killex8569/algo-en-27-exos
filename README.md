@@ -23,7 +23,7 @@ Nous avons rédigé ces exercices car nous avons remarqué que certains dans la 
 
 ## répartition
 
-Alex --> Jour 3, 4 et 7
-Val --> Jour 2, 5 et 6
 
-Il manque : 13, 16, 17, 18
+Il manque : Exo 12, 18, 20, 23, 24, 26
+
+--> La quasi totalité des documentations et des exemples.
