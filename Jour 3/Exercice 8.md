@@ -1,20 +1,18 @@
 ## Consignes
 
-**Niveau** : Moyen
+**Niveau** : moyen
 **Internet autorisé** : non
 **Langage** : C
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 ## Enoncé
 
 - Créer une fonction `calc_moyenne` qui prend en paramètre deux tableaux d'entier.
-    - Dans cette fonction, vous devrez :
-        - Lire les données des tableau, les extraires et les additionnés dans une variables `somme_total1` et `somme_total2`
+    - Dans cette fonction :
+        - Lire les données des tableau, les extraire et les additionner dans une variable `somme_total1` et `somme_total2`
         - Calculer la moyenne des deux sommes dans une variable `moyenne_g`.
         - retourner la valeur de `moyenne_g`.
-- Dans le programme principal, Initialiser deux tableaux `moy1` et `moy2` qui contiendrons chacuns 3 entiers de votre choix.
-- Afficher le résultat de la fonction
-
+- Dans le programme principal, Initialiser deux tableaux `moy1` et `moy2` qui contiendront chacun 3 entiers au choix.
+- Afficher le résultat de la fonction, s'il est supérieur ou égal à 10, afficher le message "L'élève à la moyenne"
 
 ## Exemples de résultat
 
@@ -25,12 +23,15 @@ moyenne_g = 11.3
 
 L'élève à la moyenne
 
-
 ## Documentation
-
-Notes
-
---> Parcourir un tableau en C
---> Récupéré les données (normalement c'est juste un som += tab1[i], mais pour être sur n'héssite pas à détails ce qu'il faut faire avec du pseudo code)
---> Appelle de la fonction avec des arguments
-
+| Instruction                                        | Code                                                    |
+| -------------------------------------------------- | ------------------------------------------------------- |
+| initialiser un code C                              | `int main() { ... }`                                    |
+| initialiser une fonction avec un tableau en entrée | `int func(int tab[]) { ... }`                           |
+| Initialiser une variable (pour un nombre entier)   | `int x = 4;` `int y = x + 4;`                           |
+| ajouter une valeur à une variable                  | `var += val`                                            |
+| condition if                                       | `if (x < 4) { ... } else { ... }`<br>                   |
+| boucle for de 1 à n exclu                          | `for(int i=0;i<n;i++) { ... }`                          |
+| afficher la valeur d'une variable (nombre entier)  | `printf("valeur : %d", x);`<br>`printf("%d", func(3));` |
+| Terminer un code C (dans la fonction main)         | `return 0;`                                             |
+**Remaque** : calculer une moyenne : total/nb_valeurs

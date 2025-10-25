@@ -4,18 +4,14 @@
 **Internet autorisé** : non
 **Langage** : Bash
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 ## Enoncé
 
-
-- Votre script devras inclure plusieurs paramètres de la valeur de votre choix (pas de nombre de paramètres définis, 2 minimum, pas de maximum).
-- Initialiser un tableau `tab` qui est vide pour le moment
-- Votre script devra :
+- le script prend en compte deux paramètres numériques minimum : `./script nb1 nb2 nb3...`
+- vérifier si le nombre de paramètres est inférieur à 2, renvoyer un message d'erreur si c'est le cas et quitter le script
+- le script doit :
     - Créer un fichier `result.txt` si il n'existe pas déjà.
-    - Le programme utilise les paramètres pour trouver le minimum, la maximum et calculer la moyenne et l'affecteras dans cet ordre au variables : `min`, `moy`, `max`.
-    - Ajouter dans un tableau en Bash `tab` en premier la valeur minimum, puis la valeur moyenne et enfin la valeur max en dernière position.
+    - à l'aide d'une boucle `for` qui parcours la liste des paramètres, trouver le minimum, la moyenne et le maximum des paramètres du programme. L'affecter dans cet ordre aux variables : `min`, `moy`, `max`.
     - Ajouter dans le résultat de `tab` dans le fichier `result.txt`.
-
 
 ## Exemple de resultat
 
@@ -30,26 +26,24 @@ tab = 3, 11.3 ,18
 résultat dans le : result.txt
 3, 11.8, 18
 
-
 ## Documentation
-
---> Initialisation de paramètres en bash ($1 à $n)
-
---> Boucle for en bash
-
---> condition if et elif en bash
-
---> Peut-être réexpliquer avec du pseudo code ou expliquation comment faire pour trouver le min et le max 
-
---> Ajouter valeur à tableau en bash (juste en dessous, je te laisse faire le tri etc...)
-
-
-### Déclaration d'un tableau vide
-Tableau=()
-
-### Ajouter des valeurs au tableau
-
-Tableau+=("Linux")
-Tableau+=("Windows")
-Tableau+=("MacOS")
-
+| Instruction                                       | Code                                     |
+| ------------------------------------------------- | ---------------------------------------- |
+| initialiser une variable                          | `var=5`                                  |
+| récupérer les paramètre d'une commande            | `$1 $2 $3...`                            |
+| boucle for "pour i allant de 1 jusqu'à x"         | `for i in $(seq 1 $x); do ... done`      |
+| input utilisateur dans la variable "var"          | `read -p "entrez valeur : " var`         |
+| afficher une valeur                               | `echo $var` `echo "message"`             |
+| vérifier si x est inférieure à y                  | `[[ $x < $y ]]`                          |
+| condition if                                      | `if ... ;then ... elif ... ;then ... fi` |
+| créer un fichier                                  | `touch file.txt`                         |
+| récupérer le nombre de paramètres d'un script     | `$#`                                     |
+| récupérer la liste des paramètres d'un script     | `$@`                                     |
+| quitter le script (0 : tout va bien ; 1 : erreur) | `exit 0` `exit 1`                        |
+**Remarque** :
+- trouver le minimum (ou maximum) dans un tableau :
+	- on initialise une variable `min` (ou `max`) à la valeur de la première valeur du tableau
+	- on parcours le tableau à partir de la deuxième valeur :
+		- si on trouve une valeur inférieure (ou supérieure), `min` (ou `max`) prend cette valeur
+	- une fois le tableau parcouru, on est sûr d'avoir la valeur minimale (ou maximale)
+- calculer une moyenne : total/nb_valeurs

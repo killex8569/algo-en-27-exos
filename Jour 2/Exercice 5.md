@@ -17,7 +17,7 @@
 | ------------------------------------------------------------- | ----------------------------------- |
 | initialiser une fonction avec pour paramètre x                | `function name_func(x) { ... }`     |
 | boucle for "pour i allant de 1 jusqu'à x"                     | `for i in $(seq 1 $x); do ... done` |
-| récupérer la valeur contenu dans le tableau "tab" à l'index i | `tab[i]`                            |
+| récupérer la valeur contenu dans le tableau "tab" à l'index i | `x=${tab[i]}` `tab[i]=5`            |
 | afficher une valeur                                           | `echo $var` `echo "message"`        |
 | récupérer le nombre d'élément de la liste "tab"               | `${#tab[@]}`                        |
 | créer un tableau                                              | `tab=(1 2 3 4)`                     |

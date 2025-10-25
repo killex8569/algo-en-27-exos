@@ -4,7 +4,6 @@
 **Internet autorisé** : oui
 **Langage** : Python
 
-_Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
 ## Enoncé
 
 - créer la fonction `encrypt` qui prend en paramètre "txt_clair" qui est une chaine de caractère
@@ -15,6 +14,7 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 		- sinon, récupérer le code ascii du caractère, convertir ce nombre en chaine de caractère pour ensuite l'ajouter à "final_msg"
 	- renvoyer "final_msg"
 - afficher le résultat de la fonction `encrypt` avec "a l attaque"
+
 ## Exemple de résultat
 
 `encrypt("a l attaque")` -> "F3210832F116116F113117101"

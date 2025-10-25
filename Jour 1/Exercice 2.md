@@ -3,6 +3,7 @@
 **Niveau** : moyen
 **Internet autorisé** : non
 **Langage** : Python
+
 ## Enoncé
 
 - écrire la fonction calc qui a pour paramètre "val" qui :
@@ -23,13 +24,12 @@ Votre nombre : 3
 9
 
 ## Documentation
-
 | Instruction                                                              | Code                                |
 | ------------------------------------------------------------------------ | ----------------------------------- |
 | initialiser une fonction avec pour paramètre x                           | `def func(x) :`                     |
 | Initialiser une variable                                                 | `x = 4`                             |
-| condition if                                                             | `if x < 4 :`<br>                    |
-| afficher la valeur d'une variable                                        | `print(x)`                          |
+| condition if                                                             | `if x < 4 : ... else : ...`<br>     |
+| afficher la valeur d'une variable / fonction                             | `print(x)` `print(func(3))`         |
 | retourner une valeur d'une fonction                                      | `return x` `return v+2`             |
 | savoir si un nombre est pair                                             | `x % 2 == 0`                        |
 | demander à l'utilisateur de rentrer un entier et mettre la valeur dans x | `x = int(input("entrez valeur: "))` |

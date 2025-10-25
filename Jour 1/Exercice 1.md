@@ -5,6 +5,7 @@
 **Langage** : C
 
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
+
 ## Enoncé
 
 - initialiser une variable "age" à une valeur numérique positive (n'importe laquelle)
@@ -21,11 +22,11 @@ OU
 --> la personne est majeure, elle a 20 ans
 
 ## Documentation
-| Instruction                                       | Code                     |
-| ------------------------------------------------- | ------------------------ |
-| initialiser un code C                             | `int main() { ... }`     |
-| Initialiser une variable (pour un nombre entier)  | `int x = 4;`             |
-| condition if                                      | `if (x < 4) { ... }`<br> |
-| afficher la valeur d'une variable (nombre entier) | `printf("%d", x);`       |
-| Terminer un code C                                | `return 0;`              |
+| Instruction                                       | Code                                  |
+| ------------------------------------------------- | ------------------------------------- |
+| initialiser un code C                             | `int main() { ... }`                  |
+| Initialiser une variable (pour un nombre entier)  | `int x = 4;`                          |
+| condition if                                      | `if (x < 4) { ... } else { ... }`<br> |
+| afficher la valeur d'une variable (nombre entier) | `printf("valeur : %d", x);`           |
+| Terminer un code C (dans la fonction main)        | `return 0;`                           |
 **Remarque** : par convention, la fonction "main" en C renvoie un integer (<u>int</u> main()) qui vaut 0 si tout c'est bien passé, 1 s'il y a une erreur (d'où le `return 0;`)

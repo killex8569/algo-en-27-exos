@@ -8,16 +8,12 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 ## Enoncé
 
-pierre papier ciseau
-
-l'utilisateur rentre une valeur (P/F/C).
-
-- Vous aller créer une fonction `pfc`, cette fonction devra : 
-    - Proposer au joueur de choisir entre Pierre, feuille et Ciseau en input et l'inclure dans une variable.
-    - L'ordinateur choisi aussi un éléments parmis P, F et C
-    - L'algo compare les deux réponses du joueurs et de l'ordi. (--> Voir règles)
+- créer une fonction `pfc()` qui : 
+    - propose au joueur de choisir entre Pierre, feuille et Ciseau en input et l'inclure dans une variable : si l'input n'est pas égale à P, F ou C, on sort de la fonction avec un message d'erreur
+    - L'ordinateur choisi aléatoirement un nombre entre 0 et 2, et prend à cet index la valeur située dans le tableau `[P, F, C]`
+    - L'algo compare les deux réponses du joueurs et de l'ordi. (--> Voir règles) :
+	    - si le choix de l'ordi est 'P' et celui de l'utilisateur est 'F', afficher "Joueur a gagné"
     - Annonce le gagnant de la manche (Joueur ou Ordi), affiche aussi le choix de l'ordi et du joueurs.
-
 
 ## Règles
 
@@ -30,7 +26,7 @@ Papier gagne sur la pierre.
 Choix joueur : P
 Choix Ordi : C
 
-Joueur à Gagner !
+Joueur a gagné !
 
 ## Documentation
 
