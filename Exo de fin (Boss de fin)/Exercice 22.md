@@ -28,11 +28,4 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
    - Afficher chaque lancer et sa somme.  
    - Indiquer clairement si le joueur gagne ou perd.   
 
----
-
-### Éléments optionnels
-
-- Ajouter un **système de mise** : le joueur parie une somme et son solde évolue selon les résultats.  
-- Afficher un **historique des parties** (victoires/défaites).  
-- Gérer une **interface textuelle** plus claire (séparateurs, pauses entre les tours, etc.).  
-- Intégrer une **fonction de hasard** avec `rand()` et `srand(time(NULL))` pour simuler les dés.  
+ 

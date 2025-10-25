@@ -23,11 +23,52 @@ _Rappel : Pour l'algo glouton, n'aller pas le chercher sur internet, faite le se
 
 ## Exemples de résultat
 
+--- fonction main
 
+Gestionnaire de tâches V1
+
+1 - Voir les processus en cours
+2 - Stopper un service via PID
+3 - Quitter le programme
+Votre choix : 1
+
+--- fonction taches
+
+<utilitaire top>
+
+voulez vous quitter ? : Y
+
+--- fonction main
+
+Gestionnaire de tâches V1
+
+1 - Voir les processus en cours
+2 - Stopper un service via PID
+3 - Quitter le programme
+Votre choix : 2
+
+--- fonction test_stop
+
+<Liste des processus en fonctionnement>
+
+Entrer le pid que vous souhaitez stopper (q pour quitter): 2025
+processus 2025 arreter.
+
+--- fonction main
+
+Gestionnaire de tâches V1
+
+1 - Voir les processus en cours
+2 - Stopper un service via PID
+3 - Quitter le programme
+Votre choix :
 
 
 ## Documentation
 
 --> Fonction en Bash
 
---> Stopper
+- Déclaration d'une fonction en Bash `function <nom_fonction>{...}`
+- Pour stopper un programme en Bash, il suffit de faire Exit 0
+- L'utilitaire `top` en bash --> affiche les données du système 
+- Appelle d'une fonction en bash : `<nom_fonction>`

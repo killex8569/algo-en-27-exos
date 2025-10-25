@@ -41,5 +41,4 @@ inclure les deux tableaux trier dans le troisième (compilation dans l'ordre des
 tab3 = 0, 1, 2, 3, 4, 5, 6, 8, 8, 12, 13, 14, 32, 56
 Longueur tab3 = 14
 
-## Documentation
 
