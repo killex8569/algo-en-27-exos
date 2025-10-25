@@ -17,7 +17,26 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 
 ## Exemple de résultat
+Votre nombre : 500
+Le nombre mystère est plus grand.
+**9 vies restantes**
 
+Votre nombre : 968
+Bien joué ! Le nombre mystère était 968.
+Il vous restait 9 vies.
 
 ## Documentation
+
+| Instruction                                     | Code                                                                 |
+| ----------------------------------------------- | -------------------------------------------------------------------- |
+| Définir une fonction                            | `function nom_fonction() { ... }`                                    |
+| Générer un nombre aléatoire entre 0 et 1000     | `nombre=$((RANDOM % 1001))`                                          |
+| Lire une entrée utilisateur                     | `read -p "Votre nombre : " var`                                      |
+| Comparer deux valeurs numériques                | `if [ "$x" -eq "$y" ]` `if [ "$x" -lt "$y" ]` `if [ "$x" -gt "$y" ]` |
+| Décrémenter / incrémenter une variable          | `((compteur--)) / ((compteur++))`                                                     |
+| Afficher une valeur ou un message               | `echo "message"`                                                     |
+| Boucle while (répéter tant que condition vraie) | `while [ condition ]; do ... done`                                   |
+| Quitter une fonction ou un script               | `return` ou `exit 0`                                                 |
+| Initialiser une variable                        | `var=0`                                                              |
+| Test logique inverse                            | `! condition`                                                        |
 

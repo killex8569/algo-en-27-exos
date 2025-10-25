@@ -3,9 +3,10 @@
 **Niveau** : moyen
 **Internet autorisé** : oui
 **Langage** : Python
+
 ## Enoncé
 
-- créez le fichier csv suivant, le lire puis afficher le prénom et le nom des clients dont le prénom commence par la lettre 'C' **OU** qui ont une date de souscription antérieure au 1er janvier 2021 : 
+- Créez le fichier csv suivant, le lire puis afficher le prénom et le nom des clients dont le prénom commence par la lettre 'C' **OU** qui ont une date de souscription antérieure au 1er janvier 2021 : 
 ```csv
 Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Email,Subscription Date,Website
 1,DD37Cf93aecA6Dc,Sheryl,Baxter,Rasmussen Group,East Leonard,Chile,229.077.5154,397.884.0519x718,zunigavanessa@smith.info,2020-08-24,http://www.stephenson.com/
@@ -113,5 +114,5 @@ Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Emai
 ## Recherches sur internet
 
 Vous devrez notamment rechercher :
-- comment lire des fichiers CSV en Python
-- comment comparer des dates en Python
+- Comment lire des fichiers CSV en Python
+- Comment comparer des dates en Python

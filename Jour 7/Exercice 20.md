@@ -35,7 +35,14 @@ cat comptage.txt
 
 ## Documentation
 
---> Redirection de flux
-
---> Grep
-
+| Instruction                                               | Code                                   |
+| --------------------------------------------------------- | -------------------------------------- |
+| Vérifier l’existence d’un dossier                         | `if [ -d "$rep" ]; then ... fi`        |
+| Trouver les fichiers modifiés récemment (<7 jours)        | `find "$rep" -type f -mtime -7`        |
+| Compter le nombre de fichiers                             | `find "$rep" -type f -mtime -7 | wc -l`|
+| Rediriger la sortie dans un fichier (remplace le contenu) | `> result.txt`                         |
+| Ajouter du texte à la fin d’un fichier                    | `>> result.txt`                        |
+| Afficher un message d’erreur                              | `echo "Erreur : dossier invalide" >&2` |
+| Comparer deux valeurs entières                            | `if [ "$a" -gt "$b" ]; then ... fi`    |
+| Parcourir tous les arguments sauf le premier              | `for rep in "${@:2}"; do ... done`     |
+| Rechercher du texte dans un fichier                       | `grep "mot" fichier`                   |

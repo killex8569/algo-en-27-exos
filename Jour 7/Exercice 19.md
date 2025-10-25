@@ -1,7 +1,7 @@
 ## Consignes
 
-**Niveau** : simple
-**Internet autorisé** : non
+**Niveau** : Simple
+**Internet autorisé** : Oui
 **Langage** : Python
 
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
@@ -19,11 +19,10 @@ On vas parcourire deux fois la liste via deux index, si l'index 1 est supérieur
 - Créer une fonction `tri_bulle` qui prend en paramètre `tab`
 - Déclarer la variable `n` qui prend pour valeur la taille total du tableau `tab`
 - Parcourir les deux tableau via deux boucles
-- return le résultat
+- Retourner le résultat
 
-## Exemple de résultat
+## Recherches sur internet
 
-
-
-## Documentation
-
+Vous devrez notamment rechercher :
+- Comment fonctionne le tri à bulle
+- Comment parcourir plusieurs tableau en python

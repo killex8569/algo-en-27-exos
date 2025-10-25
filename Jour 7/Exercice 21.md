@@ -1,7 +1,7 @@
 ## Consignes
 
 **Niveau** : Complexe
-**Internet autorisé** : non
+**Internet autorisé** : oui
 **Langage** : C
 
 _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fonction de vos outils (Windows/Linux, VS Code...)_
@@ -33,7 +33,13 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
 
 ## Exemple de résultat
 
+Votre nombre : 500
+Le nombre mystère est plus grand.
+**9 vies restantes**
+
+Votre nombre : 968
+Bien joué ! Le nombre mystère était 968.
+Il vous restait 9 vies.
 
 
-## Documentation
 
