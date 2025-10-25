@@ -13,6 +13,8 @@ _Rappel : vous pouvez regarder sur internet comment lancer votre programme en fo
     - L'ordinateur choisi aléatoirement un nombre entre 0 et 2, et prend à cet index la valeur située dans le tableau `[P, F, C]`
     - L'algo compare les deux réponses du joueurs et de l'ordi. (--> Voir règles) :
 	    - si le choix de l'ordi est 'P' et celui de l'utilisateur est 'F', afficher "Joueur a gagné"
+	    - si le choix de l'ordi est 'C' et celui de l'utilisateur est 'C' afficher "égalité"
+	    - etc.
     - Annonce le gagnant de la manche (Joueur ou Ordi), affiche aussi le choix de l'ordi et du joueurs.
 
 ## Règles
