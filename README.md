@@ -24,6 +24,9 @@ Nous avons rédigé ces exercices car nous avons remarqué que certains dans la 
 ## répartition
 
 
-Il manque : Exo 12, 18, 20, 23, 24, 26
+Il manque : 
+Val : Exo 12, 18, 20, 
+
+Alex : 23, 24, 26
 
 --> La quasi totalité des documentations et des exemples.
