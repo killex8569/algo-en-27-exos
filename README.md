@@ -23,10 +23,7 @@ Nous avons rédigé ces exercices car nous avons remarqué que certains dans la 
 
 ## répartition
 
-
-Il manque : 
-Val : Exo 12, 18, 20, 
-
-Alex : 23, 24, 26
-
 --> La quasi totalité des documentations et des exemples.
+
+
+Pour les corrections il manque : 6, 12, 13, 15, 16, 17, 18

@@ -11,7 +11,3 @@ _Rappel : Pour l'algo glouton, n'aller pas le chercher sur internet, faite le se
 - Créer une fonction `algo_glouton` en python.
 
 
-## Exemples de résultat
-
-## Documentation
-
